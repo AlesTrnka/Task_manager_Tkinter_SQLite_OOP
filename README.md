@@ -1,7 +1,7 @@
 # Task_manager_Tkinter_SQLite_OOP
 Úkolníček - aplikace pro správu vašich úkolů
 
-Aplikace v modulu Tkinter, vytvořena metodikou objektově orientovaného programování. Aplikace využívá databázi SQLite pro zaznamenávání a správu úkolů.
+Aplikace v modulu Tkinter, vytvořena objektově orientovaným přístupem. Aplikace využívá databázi SQLite pro zaznamenávání a správu úkolů.
 
 Použité knihovny:
 - Tkinter, CustomTkinter, CTkMessagebox, Datetime, Threading, TkCalendar, SQLite
